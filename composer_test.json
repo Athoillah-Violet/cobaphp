@@ -1,0 +1,8 @@
+{
+    "name": "baca-buku/uji-abasthan",
+    "description": "Script uji kelayakan hosting Abasthan",
+    "type": "project",
+    "require": {
+        "php": "^8.2"
+    }
+}
